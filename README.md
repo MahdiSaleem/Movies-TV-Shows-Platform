@@ -1,10 +1,10 @@
 # Project Name: IMDB 2.0
 
 ## Roles:
-* **Alexander Docu** – Frontend Logic
-  * Alex managed the frontend logic, including page serving, routing, and integrating backend data into React components.
+
 * **Turki Alyamani** – Frontend, with focus on the React interactive UI
   * Turki managed the interactive UI with Vite and React, focusing on responsiveness, maintaining frontend components, and implementing interactive features.
+  * managed the frontend logic, including page serving, routing, and integrating backend data into React components.
 * **Mahdi Al Saleem** - Backend & Managing the Database and Deploying it
   * Mahdi handles everything server-side, including user logins with Express.js, authentication with Passport.js, and managing watchlist queries.
   * manages the PostgreSQL database, handling user data, watchlists, and using Neon to host the database for seamless frontend and backend interaction.
